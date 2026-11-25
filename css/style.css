@@ -227,6 +227,7 @@ p { margin: 0; }
   color: var(--gold);
   line-height: 1.12;
 }
+.prose h3.h-gold { color: #b5a272; }
 .aside {
   background: var(--navy);
   color: #fff;
